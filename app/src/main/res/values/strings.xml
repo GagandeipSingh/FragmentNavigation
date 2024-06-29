@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentNavigation</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="next_fragment">Next Fragment</string>
+    <string name="previous_fragment">Previous Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+
+</resources>
